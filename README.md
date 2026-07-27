@@ -1,3 +1,4 @@
+
 # 💰 Finance Tracker
 
 My first Python project.
@@ -49,3 +50,4 @@ python3 main.py
 ## Author
 
 Mr Oga (Mohammad Muslim Sulaiman)
+
